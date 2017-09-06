@@ -67,7 +67,7 @@ PLATFORMS
 DEPENDENCIES
   jekyll (= 3.5.2)
   jekyll-feed (~> 0.6)
-  jekyll-theme-hydeout (~> 3.3)
+  jekyll-theme-hydeout (~> 3.4)
   minima (~> 2.0)
   tzinfo-data
 
